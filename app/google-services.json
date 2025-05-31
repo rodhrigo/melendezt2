@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "459218080230",
+    "project_id": "melendezt2",
+    "storage_bucket": "melendezt2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:459218080230:android:a940872f6cc43d640b8627",
+        "android_client_info": {
+          "package_name": "com.example.melendezt2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxsP8slyrImVVyV7F4wWBLd758JJJp6eQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,30 @@
+<resources>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="cyan">#00FFFF</color>
+    <color name="magenta">#FF00FF</color>
+    <color name="dark_gray">#1A1A1A</color>
+    <color name="medium_gray">#333333</color>
+    <color name="orange_red">#FF4500</color>
+
+    <!-- Colores Neón -->
+    <color name="neon_pink">#FF6EC7</color>        <!-- Rosa neón -->
+    <color name="neon_blue">#1B03A3</color>        <!-- Azul eléctrico -->
+    <color name="neon_green">#39FF14</color>       <!-- Verde neón -->
+    <color name="neon_yellow">#F7FF3C</color>      <!-- Amarillo neón -->
+    <color name="neon_orange">#FF5F1F</color>      <!-- Naranja neón -->
+    <color name="neon_purple">#BF00FF</color>      <!-- Morado neón -->
+    <color name="neon_cyan">#00FFF7</color>        <!-- Cian neón -->
+    <color name="neon_red">#FF073A</color>         <!-- Rojo neón -->
+    <color name="neon_lime">#BFFF00</color>        <!-- Lima neón -->
+    <color name="neon_teal">#00FFC6</color>        <!-- Verde azulado neón -->
+    <color name="neon_orchid">#DA70D6</color>      <!-- Orquídea neón -->
+    <color name="neon_magenta">#FF00FF</color>     <!-- Magenta neón (igual que magenta base) -->
+    <color name="neon_rose">#FF007F</color>        <!-- Rosa fuerte neón -->
+    <color name="neon_turquoise">#40E0D0</color>   <!-- Turquesa neón -->
+    <color name="neon_gold">#FFD700</color>        <!-- Dorado neón -->
+    <color name="neon_indigo">#4B0082</color>      <!-- Índigo neón -->
+    <color name="neon_violet">#8F00FF</color>      <!-- Violeta neón -->
+    <color name="neon_salmon">#FF6E6E</color>      <!-- Salmón neón -->
+    <color name="neon_mint">#AAF0D1</color>        <!-- Menta neón -->
+</resources>

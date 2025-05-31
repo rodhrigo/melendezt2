@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">T2_CondorLunaHimerJerly</string>
+    <!-- Cambiar el formato a %1$d para enteros -->
+    <string name="precio_formato">S/ %1$d</string>
+    <string name="registro_de_mascota">Registro de Mascota</string>
+    <string name="seleccionar_imagen">Seleccionar Imagen</string>
+    <string name="o_ingresa_url_de_la_imagen">O ingresa URL de la imagen</string>
+    <string name="nombre">Nombre</string>
+    <string name="descripci_n">Descripción</string>
+    <string name="precio">Precio</string>
+    <string name="guardar">Guardar</string>
+    <string name="sesi_n_iniciada">These are my pets</string>
+    <string name="nombre_de_la_mascota">Nombre de la mascota</string>
+    <string name="descripci_ns">Descripción</string>
+    <string name="s_0_00">S/. 0.00</string>
+    <string name="editar">Editar</string>
+    <string name="eliminar">Eliminar</string>
+    <string-array name="tipos_mascota">
+        <item>Perro</item>
+        <item>Gato</item>
+        <item>Monito</item> <!-- Asegúrate que exista -->
+        <item>Pájaro</item>
+        <!-- otros ítems -->
+    </string-array>
+
+    <string name="tipo_de_mascota">Tipo de mascota</string>
+    <string name="tipo_formato">Tipo: %1$s</string>
+    <string name="tipo_perro">Tipo: Perro</string>
+    <string name="tipo_de_mascota_list">Tipo de Mascota</string>
+    <string name="iniciar_sesi_n">Iniciar Sesión</string>
+    <string name="no_tienes_una_cuenta_reg_strate_aqu">¿No tienes una cuenta? Regístrate aquí</string>
+    <string name="contrase_a">Contraseña</string>
+    <string name="correo_electr_nico">Correo electrónico</string>
+    <string name="bienvenido">Bienvenido</string>
+    <string name="crear_nueva_cuenta">Crear Nueva Cuenta</string>
+    <string name="correo_electr_ni">Correo Electrónico</string>
+    <string name="contrase_as">Contraseña</string>
+    <string name="confirmar_contrase_a">Confirmar Contraseña</string>
+    <string name="registrarse">Registrarse</string>
+    <string name="ya_tienes_una_cuenta_inicia_sesi_n">¿Ya tienes una cuenta? Inicia sesión</string>
+
+</resources>
